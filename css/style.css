@@ -455,7 +455,8 @@ body {
   height: 450px;
   background-color: white;
   position: relative;
-  margin-left: 285px;
+  margin: auto;
+  margin-right: 0;
 }
 .sim-slider-list {
   margin: 0;
